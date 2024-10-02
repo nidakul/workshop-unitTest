@@ -9,3 +9,4 @@
 /Users/nida/Projects/JobApplicationLibrary/JobApplicationLibrary/obj/Debug/net8.0/refint/JobApplicationLibrary.dll
 /Users/nida/Projects/JobApplicationLibrary/JobApplicationLibrary/obj/Debug/net8.0/JobApplicationLibrary.pdb
 /Users/nida/Projects/JobApplicationLibrary/JobApplicationLibrary/obj/Debug/net8.0/ref/JobApplicationLibrary.dll
+/Users/nida/Projects/JobApplicationLibrary/JobApplicationLibrary/obj/Debug/net8.0/JobApplicationLibrary.sourcelink.json

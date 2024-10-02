@@ -96,3 +96,7 @@
 /Users/nida/Projects/JobApplicationLibrary/JobApplicationLibrary.UnitTest/obj/Debug/net8.0/JobApplicationLibrary.UnitTest.pdb
 /Users/nida/Projects/JobApplicationLibrary/JobApplicationLibrary.UnitTest/obj/Debug/net8.0/JobApplicationLibrary.UnitTest.genruntimeconfig.cache
 /Users/nida/Projects/JobApplicationLibrary/JobApplicationLibrary.UnitTest/obj/Debug/net8.0/ref/JobApplicationLibrary.UnitTest.dll
+/Users/nida/Projects/JobApplicationLibrary/JobApplicationLibrary.UnitTest/bin/Debug/net8.0/CoverletSourceRootsMapping_JobApplicationLibrary.UnitTest
+/Users/nida/Projects/JobApplicationLibrary/JobApplicationLibrary.UnitTest/bin/Debug/net8.0/JobApplicationLibrary.dll
+/Users/nida/Projects/JobApplicationLibrary/JobApplicationLibrary.UnitTest/bin/Debug/net8.0/JobApplicationLibrary.pdb
+/Users/nida/Projects/JobApplicationLibrary/JobApplicationLibrary.UnitTest/obj/Debug/net8.0/JobApplicationLibrary.UnitTest.sourcelink.json
