@@ -1,0 +1,11 @@
+/Users/nida/Projects/JobApplicationLibrary/JobApplicationLibrary/bin/Debug/net8.0/JobApplicationLibrary.deps.json
+/Users/nida/Projects/JobApplicationLibrary/JobApplicationLibrary/bin/Debug/net8.0/JobApplicationLibrary.dll
+/Users/nida/Projects/JobApplicationLibrary/JobApplicationLibrary/bin/Debug/net8.0/JobApplicationLibrary.pdb
+/Users/nida/Projects/JobApplicationLibrary/JobApplicationLibrary/obj/Debug/net8.0/JobApplicationLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nida/Projects/JobApplicationLibrary/JobApplicationLibrary/obj/Debug/net8.0/JobApplicationLibrary.AssemblyInfoInputs.cache
+/Users/nida/Projects/JobApplicationLibrary/JobApplicationLibrary/obj/Debug/net8.0/JobApplicationLibrary.AssemblyInfo.cs
+/Users/nida/Projects/JobApplicationLibrary/JobApplicationLibrary/obj/Debug/net8.0/JobApplicationLibrary.csproj.CoreCompileInputs.cache
+/Users/nida/Projects/JobApplicationLibrary/JobApplicationLibrary/obj/Debug/net8.0/JobApplicationLibrary.dll
+/Users/nida/Projects/JobApplicationLibrary/JobApplicationLibrary/obj/Debug/net8.0/refint/JobApplicationLibrary.dll
+/Users/nida/Projects/JobApplicationLibrary/JobApplicationLibrary/obj/Debug/net8.0/JobApplicationLibrary.pdb
+/Users/nida/Projects/JobApplicationLibrary/JobApplicationLibrary/obj/Debug/net8.0/ref/JobApplicationLibrary.dll

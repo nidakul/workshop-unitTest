@@ -1,0 +1,5 @@
+﻿<Properties StartupConfiguration="{6C6A376A-B2BF-44D0-8ACE-E9DF5079A51D}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.JobApplicationLibrary.UnitTest PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.JobApplicationLibrary FirstBuild="True" />
+</Properties>
